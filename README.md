@@ -1,6 +1,7 @@
 # basics
 
-A new Flutter project.
+Learning Flutter from basics.
+This is the first app in the course.
 
 ## Getting Started
 
